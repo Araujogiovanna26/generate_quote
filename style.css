@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: cornsilk;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 13rem;
+}
+
+section p {
+  font-size: 2rem;
+  color: white;
+  padding: 0.5em;
+  border-radius: 10px;
+}
+#botao {
+  font-size: 1.2rem;
+  border-radius: 15px;
+  width: 15rem;
+  background: darksalmon;
+  padding: 0.3em;
+}
+
+section p {
+  font-size: 2rem;
+  color: white;
+}
